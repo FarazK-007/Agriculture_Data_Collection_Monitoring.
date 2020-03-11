@@ -1,5 +1,4 @@
-# Agriculture_Data_Collection_Monitoring.
-    Title: Agriculture Data Collection and Monitoring.
+# Title: Agriculture Data Collection and Monitoring.
 
 # Abstract: 
     As we all know in India there is lot of issues related to Agriculture (i.e. On Farming). For example,  Heavy nonseasonal rainfall has locked latest onion produce in wet fields throughout onion growing states of Maharashtra, Karnataka and Telangana. As a ripple effect, onion prices increased everywhere in the country.
