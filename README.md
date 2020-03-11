@@ -9,4 +9,4 @@
 
 # Idea to overcome this:
     There will be Android App for Farmers which will provide feature like Weather Forecast  related Data Information about Crops planted in certain States. [For example, In Maharashtra - Wheat 42% have been planted]... This will give great idea for Farmers to plan which Crop they needed to plant.
-    And Web App for Crop Seller to manage and generate bills of Crops that are Sold. This will help for Data Collection.
+        And Web App for Crop Seller to manage and generate bills of Crops that are Sold. This will help for Data Collection.
